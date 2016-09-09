@@ -1,6 +1,6 @@
-github "Alamofire/Alamofire"      	        "swift2.3"
-github "bignerdranch/Deferred"              "zwaldowski/swift-2_3"
-github "SnapKit/SnapKit"                    "0.30.0.beta2"
+github "Alamofire/Alamofire"      	        "3.5.0"
+github "bignerdranch/Deferred"              "2.0.0"
+github "SnapKit/SnapKit"                    "0.22.0"
 github "drmohundro/SWXMLHash"               "xcode-8.0"
 
 github "rs/SDWebImage"                      "3.7.4"           
@@ -11,8 +11,6 @@ github "AgileBits/onepassword-extension"    "add-framework-support"
 github "iziz/libPhoneNumber-iOS"            "0.8.11"
 
 github "mozilla/readability"                "master"
-
-
 
 github "fluffyemily/SwiftKeychainWrapper"   "extension-compatibility"					# default to latest tag
 github "thebnich/XCGLogger"                 "trycatch"
