@@ -1,7 +1,7 @@
 github "Alamofire/Alamofire"      	        "3.5.0"
 github "bignerdranch/Deferred"              "2.0.0"
 github "SnapKit/SnapKit"                    "0.22.0"
-github "drmohundro/SWXMLHash"               "xcode-8.0"
+github "drmohundro/SWXMLHash"               "2.5.1"
 
 github "rs/SDWebImage"                      "3.7.4"           
 github "swisspol/GCDWebServer"		          "3.3.2"			     
@@ -12,5 +12,5 @@ github "iziz/libPhoneNumber-iOS"            "0.8.11"
 
 github "mozilla/readability"                "master"
 
-github "fluffyemily/SwiftKeychainWrapper"   "extension-compatibility"					# default to latest tag
+github "jrendel/SwiftKeychainWrapper"       "Swift2.3"
 github "thebnich/XCGLogger"                 "trycatch"

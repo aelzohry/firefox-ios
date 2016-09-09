@@ -3862,6 +3862,7 @@
 					};
 					3BFE4B061D342FB800DDF53F = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
 						TestTargetID = F84B21BD1A090F8100AAB793;
 					};
 					7BEB64401C7345600092C02E = {
@@ -5668,6 +5669,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = Client;
 			};
 			name = Fennec;
@@ -5710,6 +5712,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.mozilla.XCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = Client;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -5753,6 +5756,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.mozilla.XCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = Client;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -5796,6 +5800,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.mozilla.XCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = Client;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -5839,6 +5844,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.mozilla.XCUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
+				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = Client;
 				VALIDATE_PRODUCT = YES;
 			};
