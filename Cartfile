@@ -1,5 +1,5 @@
 github "Alamofire/Alamofire"      	        "3.5.0"
-github "bignerdranch/Deferred"              "2.0.0"
+github "sleroux/Deferred"                   "Swift2.3"
 github "SnapKit/SnapKit"                    "0.22.0"
 github "drmohundro/SWXMLHash"               "2.5.1"
 
